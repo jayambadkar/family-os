@@ -165,4 +165,19 @@ Therefore, I have provided a more limited set of instructions for operationalisi
 ## Appendix 2: Pictures
 These are included for demonstrative purposes - all data is notional.
 
-[Coming soon!]
+Just keep scrolling. Also check out the video demo if you have access!
+
+![1](./images/main1.png)
+![2](./images/main2.png)
+![3](./images/main3.png)
+![4](./images/main4.png)
+![5](./images/main5.png)
+![6](./images/main6.png)
+![7](./images/main7.png)
+![8](./images/main8.png)
+![9](./images/main9.png)
+![10](./images/main10.png)
+![11](./images/main11.png)
+![12](./images/gc1.png)
+![13](./images/kids1.png)
+![14](./images/kids2.png)
