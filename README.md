@@ -1,5 +1,7 @@
 # FamilyOS
-*Built on Foundry*. All packaged data is notional.
+*Built on Foundry*. All packaged data is notional. 
+
+By Jay Ambadkar
 
 ## Project Description
 - This is FamilyOS. An all-in-one tool for your family to streamline your lives, allowing you to spend more time on the things that matter.
