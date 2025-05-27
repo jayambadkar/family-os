@@ -164,6 +164,9 @@ While writing this README and scrolling through the AIP Community Repository, I 
 
 Therefore, I have provided a more limited set of instructions for operationalising the compute module code provided in this repo, and strongly advise use of either Serknight's or Tom's, depending on whether you have a Workspace or personal Gmail account respectively.
 
+My compute module does indeed work, however, as this example demonstrates:
+![Gmail demo](./images/gmail1.png)
+
 ## Appendix 2: Pictures
 These are included for demonstrative purposes - all data is notional.
 
