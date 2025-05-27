@@ -167,7 +167,7 @@ Therefore, I have provided a more limited set of instructions for operationalisi
 ## Appendix 2: Pictures
 These are included for demonstrative purposes - all data is notional.
 
-Just keep scrolling. Also check out the video demo if you have access!
+Just keep scrolling. Also check out the video demo if you have access! There are some pictures of the OSDK React App at the bottom.
 
 ![1](./images/main1.png)
 ![2](./images/main2.png)
@@ -183,3 +183,7 @@ Just keep scrolling. Also check out the video demo if you have access!
 ![12](./images/gc1.png)
 ![13](./images/kids1.png)
 ![14](./images/kids2.png)
+![15](./images/osdk1.png)
+![16](./images/osdk2.png)
+![17](./images/osdk3.png)
+![18](./images/osdk4.png)
