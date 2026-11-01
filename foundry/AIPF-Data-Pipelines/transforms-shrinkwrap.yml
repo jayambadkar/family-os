@@ -1,0 +1,67 @@
+---
+mappings:
+- alias: "ri.foundry.main.dataset.1c34345b-d45d-4974-9beb-fd98b4fec894"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.1c34345b-d45d-4974-9beb-fd98b4fec894"
+- alias: "ri.foundry.main.dataset.3caa7723-771a-4209-a405-02187e85c60a"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.3caa7723-771a-4209-a405-02187e85c60a"
+- alias: "ri.foundry.main.dataset.519443c3-422a-40ec-8df7-d5ef5016dd15"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.519443c3-422a-40ec-8df7-d5ef5016dd15"
+- alias: "ri.foundry.main.dataset.52534195-6268-4f9f-bf75-dcb1aaef1b31"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.52534195-6268-4f9f-bf75-dcb1aaef1b31"
+- alias: "ri.foundry.main.dataset.5f418a13-1d80-415b-b98c-80fb112aecc3"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.5f418a13-1d80-415b-b98c-80fb112aecc3"
+- alias: "ri.foundry.main.dataset.8fc30db7-fb91-4177-87f6-d56e4dc1a3c6"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.8fc30db7-fb91-4177-87f6-d56e4dc1a3c6"
+- alias: "ri.foundry.main.dataset.b475ea86-b597-40ab-ada4-8523a7ef80d3"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.b475ea86-b597-40ab-ada4-8523a7ef80d3"
+- alias: "ri.foundry.main.dataset.b4ce9b06-4004-4729-b0e0-cc04aef305c9"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.b4ce9b06-4004-4729-b0e0-cc04aef305c9"
+- alias: "ri.foundry.main.dataset.df4068e4-74ea-436b-8dc6-a46f5a63e68a"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.df4068e4-74ea-436b-8dc6-a46f5a63e68a"
+- alias: "ri.foundry.main.dataset.e0c3bdb4-8b33-4a49-8980-75ea89854b08"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.e0c3bdb4-8b33-4a49-8980-75ea89854b08"
+- alias: "ri.foundry.main.dataset.f279f12c-3cac-46af-9f29-3c1dad345145"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.f279f12c-3cac-46af-9f29-3c1dad345145"
+- alias: "ri.language-model-service..language-model.anthropic-claude-5-5-sonnet"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.language-model-service..language-model.anthropic-claude-5-5-sonnet"
+- alias: "ri.language-model-service..language-model.gpt-6-luna"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.language-model-service..language-model.gpt-6-luna"

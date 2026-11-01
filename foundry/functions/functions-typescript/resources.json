@@ -1,0 +1,58 @@
+{
+  "ontologies": [
+    {
+      "rid": "ri.ontology.main.ontology.6781dd2f-aa5b-44ac-89e7-ee6e24274fc9"
+    }
+  ],
+  "objectTypes": [
+    {
+      "rid": "ri.ontology.main.object-type.2d79f261-6ca9-45b9-8344-9b810cc18a1c"
+    },
+    {
+      "rid": "ri.ontology.main.object-type.5ccca545-7bde-4624-976b-27e08cbf8d00"
+    },
+    {
+      "rid": "ri.ontology.main.object-type.844a215d-6e25-423c-ad31-cbf2bc06fd24"
+    },
+    {
+      "rid": "ri.ontology.main.object-type.c5d591fe-82d2-465d-ba3e-f72606de8e31"
+    },
+    {
+      "rid": "ri.ontology.main.object-type.e4e6e213-a855-4f51-ba5e-954c69f7e1ad"
+    },
+    {
+      "rid": "ri.ontology.main.object-type.fb404755-57e2-46f5-8e5d-3cd1289b80a6"
+    },
+    {
+      "rid": "ri.ontology.main.object-type.fd1fe4d9-d86f-4bf1-a5d3-82db732e96b4"
+    }
+  ],
+  "interfaceTypes": [],
+  "linkTypes": [
+    {
+      "rid": "ri.ontology.main.relation.238b5fa5-fee8-4f1b-9ead-86a6e0f4c3b7"
+    },
+    {
+      "rid": "ri.ontology.main.relation.c12999ec-9ee0-4b9d-b8ca-fe3aa3b1c078"
+    },
+    {
+      "rid": "ri.ontology.main.relation.cbfad30c-8d43-41b7-bbc3-63025b0bf549"
+    }
+  ],
+  "sources": [],
+  "functions": [
+    {
+      "rid": "ri.function-registry.main.function.4c844e7b-68ec-43b8-b0aa-4e9482f4c910",
+      "version": "1.154.0"
+    },
+    {
+      "rid": "ri.function-registry.main.function.c2939063-8ef7-4911-903b-e51eda85a416",
+      "version": "1.154.0"
+    }
+  ],
+  "valueTypes": [],
+  "functionInterfaces": [],
+  "modelingObjectives": [],
+  "_comment": "DO NOT DELETE THIS FILE. MODIFYING CONTENTS MANUALLY MAY RESULT IN COMPILE ERRORS",
+  "version": 1
+}

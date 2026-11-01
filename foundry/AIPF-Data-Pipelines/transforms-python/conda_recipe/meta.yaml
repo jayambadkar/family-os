@@ -1,0 +1,22 @@
+package:
+  name: '{{ PACKAGE_NAME }}'
+  version: '{{ PACKAGE_VERSION }}'
+source:
+  path: ../src
+requirements:
+  build:
+  - python
+  - setuptools
+  run:
+  - python
+  - transforms {{ PYTHON_TRANSFORMS_VERSION }}
+  - transforms-expectations
+  - transforms-preview
+  - transforms-verbs
+  - foundry-transforms-lib-python
+  - polars
+  - language-model-service-api
+  - palantir_models
+build:
+  script: python setup.py install --single-version-externally-managed --record=record.txt
+  noarch: python

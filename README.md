@@ -3,6 +3,8 @@
 
 By Jay Ambadkar
 
+*Please note: a video demo may be available subject to confirmation*
+
 ## Project Description
 - This is FamilyOS. An all-in-one tool for your family to streamline your lives, allowing you to spend more time on the things that matter.
 - Includes a view for parents/responsible people and separately a view for the kids on the other end. Access control can be optionally included by making use of restricted views (omitted from the .zip package to simplify installation).
@@ -20,7 +22,7 @@ By Jay Ambadkar
 - This has initially been made for my Palantir Launch Program project on the Delta track, but happens to include lots of Dev track features too.
 
 ## Installation
-*Please see [these instructions]() for more details. It is what these instructions are based on anyway.*
+*Please see [these instructions](https://github.com/jayambadkar/aip-community-registry/blob/develop/INSTALLATION.md) for more details. It is what these instructions are based on anyway.*
 
 The first step is uploading your package to the Foundry Marketplace:
 

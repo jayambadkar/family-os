@@ -1,6 +1,9 @@
 from flask import Flask, request, abort
 import requests, os
 from dotenv import load_dotenv
+import logging
+
+logger = logging.getLogger(__name__)
 
 load_dotenv()
 app = Flask(__name__)
@@ -28,6 +31,10 @@ def tg_hook():
         timeout=5
     )
     # You may choose to log resp.status_code / resp.text here.
+    if resp.ok:
+        logger.info(f"Processed payload with result {resp.status_code}: {resp.text}")
+    else:
+        logger.error(f"Issue processing payload. Result {resp.status_code}: {resp.text}")
 
     # Always return 200 to Telegram so it won’t retry
     return ("", 200)
@@ -38,3 +45,9 @@ def get():
 
 if __name__ == "__main__":
     app.run()
+
+# command for updating Telegram URL
+"""
+curl -X POST https://api.telegram.org/bot<bot-token>/setWebhook \       ─╯
+     -F "url=<ngrok-url>/tg-hook"
+"""
